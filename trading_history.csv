@@ -1,5 +1,2 @@
 log_type,timestamp,date,time,symbol,order_type,original_order_type,lot_size,open_price,take_profit,stop_loss,channel_source,order_status,tp1,tp2,tp3,max_loss_used,pip_value_used,real_profit
-open order,2025-09-02T05:58:09.678079,2025-09-02,05:58:09,GBPJPY,BuyLimit,Long,0.01,199.45,199.9,199.25,M15 Signals Premium,SUCCESS,199.45,199.9,199.9,100,100000,
-open order,2025-09-02T06:45:59.100142,2025-09-02,06:45:59,GBPJPY,BuyLimit,Long,0.01,199.45,199.9,199.05,M15 Signals Premium,SUCCESS,199.45,199.9,199.9,100,100000,
-open order,2025-09-02T14:39:58.919582,2025-09-02,14:39:58,GBPJPY,BuyLimit,Long,0.4,199.98,200.0,199.73,M15 Signals Premium,SUCCESS,199.73,200.0,200.0,100,10.0,
-closed order,2025-09-02T16:22:59.800028,2025-09-02,16:22:59,GBPJPY,Sell,,0.01,199.9,0,0,,SUCCESS,,,,100,10.0,465.0
+open order,2025-09-04T00:21:55.287952,2025-09-04,00:21:55,GBPJPY,BuyLimit,Long,0.43,199.13,199.36,198.9,M15 Signals Premium,SUCCESS,199.13,199.36,199.36,100,10.0,
